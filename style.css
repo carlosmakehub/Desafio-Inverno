@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+  
+    padding: 0;
+  
+    box-sizing: border-box;
+  
+    font-family: "Inter", sans-serif;
+  }
+  
+  header {
+    background-color: #4b93bf;
+  
+    height: 11vh;
+  
+    color: #e4eef1;
+  
+    font-size: 28px;
+  }
+  
+  .floco {
+    display: flex;
+  
+    align-items: center;
+  }
+  
+  ul {
+    display: flex;
+  
+    list-style: none;
+  
+    justify-content: flex-end;
+  
+    margin-left: 950px;
+  }
+  
+  li {
+    padding: 30px;
+  }
+  
+  .p1 {
+    color: #0f468c;
+  
+    padding: 40px;
+  
+    display: flex;
+  
+    margin: 20px;
+  }
+  
+  .p1text {
+    display: flex;
+  
+    font-size: 20px;
+  
+    padding: 60px;
+  
+    text-align: center;
+  
+    width: 700px;
+  
+    margin-left: 100px;
+  }
+  
+  .inverno {
+    display: flex;
+  
+    margin-left: 600px;
+  }
+  
+  .p2 {
+    color: #e4eef1;
+  
+    background-color: #4b93bf;
+  
+    display: flex;
+  
+    padding-left: 100px;
+  }
+  
+  .p2p {
+    margin-left: 400px;
+  
+    font-size: 32px;
+  
+    width: 600px;
+  
+    margin-top: 60px;
+  }
+  
+  footer {
+    background-color: #4b93bf;
+  
+    display: flex;
+  
+    text-align: center;
+  
+    text-align: justify;
+  
+    color: #e4eef1;
+  
+    padding: 20px;
+  }
+  
+  .ursos {
+    display: flex;
+  
+    align-items: center;
+  
+    justify-content: space-evenly;
+  }
+  
+  .urso3 {
+    margin-top: 15px;
+  }
+  
+  .info p {
+    text-align: center;
+  
+    display: flex;
+  
+    margin-left: 500px;
+  }
+  
+  .infos {
+    display: flex;
+  }
+  
+  .link {
+    height: 100px;
+  }
+  
+  .cat {
+    height: 100px;
+  }
+  
+  .insta {
+    height: 100px;
+  }
+  
+  .pengu {
+    height: 100px;
+  
+    padding-left: 450px;
+  }
+  
